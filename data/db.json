@@ -1,0 +1,24 @@
+{
+    "usuarios": [
+        {"nombre": "Jorge",
+         "apellido": "Muñoz",
+         "clan":"Bezos",
+         "edad": 26},
+         {"nombre": "Sebas",
+         "apellido": "Garcìa",
+         "clan":"Bezos",
+         "edad": 22},
+         {"nombre": "sant",
+         "apellido": "Zulu",
+         "clan":"Bezos",
+         "edad":23},
+         {"nombre": "sebas",
+         "apellido": "serna",
+         "clan":"Bezos",
+         "edad": 25},
+         {"nombre": "juan",
+         "apellido": "perez",
+         "clan":"Bezos",
+         "edad": 23}
+     ]
+}

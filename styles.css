@@ -1,0 +1,23 @@
+.elementoPrincipal {
+    border: 10px solid black;
+    border-radius: 8px;
+}
+
+.elementoSecundario {
+    padding: 50px;
+    background-color: rgba(115, 3, 243, 0.623);
+}
+
+.elementoPrincipal2 {
+    border: 10px ridge red;
+    border-radius: 2px;
+}
+
+.elementoSecundario2 {
+    padding: 50px;
+    background-color: rgb(0, 255, 149);
+}
+
+p {
+    font-size: large;
+}
